@@ -26,6 +26,7 @@ print("Your mission is to find the treasure.")
 #https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Treasure%20Island%20Conditional.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1oDe4ehjWZipYRsVfeAx2HyB7LCQ8_Fvi%26export%3Ddownload
 
 #Write your code below this line 👇
+print("welcome")
 choice1 = input("You're at a crossroad. Where you want to go?\n    Type \"Left\" or \"Right\" \n").lower()
 if choice1 == "left" :
           choice2 = input("You have came to a lake. There is an island in the middle of the island\n  Type \"Wait\" to wait for the boat or Type \"Swim\" to swim to the island\n").lower()
